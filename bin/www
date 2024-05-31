@@ -5,7 +5,7 @@
  */
 
 const app = require('../app');
-const debug = require('debug')('deusbackendweb:server');
+const debug = require('debug')('deusbackend:server');
 const http = require('http');
 
 /**
